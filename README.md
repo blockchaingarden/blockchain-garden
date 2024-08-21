@@ -15,6 +15,10 @@
 - [永续费率套利]()
 
 
+## 神秘组织
+- [灰度基金](https://blockchaingarden.github.io/blockchain-garden/post/grayscale.html)
+
+
 ## 历史大事件
 - [2014年2月门头沟事件：比特币暴跌80%]()
 - [2017年 9.4事件：市值蒸发80%]()
