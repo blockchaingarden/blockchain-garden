@@ -4,8 +4,8 @@
 
 
 ## 交易所
-- [Binance]()
-- [Okx]()
+- [Binance](https://www.binance.com/zh-CN/)
+- [Okx](https://www.okx.com/cn/trade-spot/btc-usdt)
 
 
 ## 套利策略

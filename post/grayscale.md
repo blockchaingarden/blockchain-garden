@@ -26,7 +26,7 @@
 
 目前灰度信托股价显著高于其对应的比特币资产组合市场价格，即花同样的钱，买灰度信托股票其对应的比特币的数量少于直接从交易所买比特币，这便是溢价。
 
-![img](https://raw.githubusercontent.com/blockchaingarden/blockchain-garden/main/images/gray-market-price.jpg)
+![image-20240821163021143](https://raw.githubusercontent.com/blockchaingarden/blockchain-garden/main/images/gray-market-price.png)
 
 左边10.8美元是灰度信托股价，右边9.2美元是每一股灰度信托股票对应的比特币价值，股价高于对应资产的价值，即信托股票存在溢价。
 
@@ -36,7 +36,7 @@
 
 另一种观点是认为是由于灰度信托对股票有6个月锁仓期，市场流通的信托股票偏少，使得二级市场市场供需不平衡产生溢价，溢价会随信托股票解锁而缩小。但灰度信托发行已经有些年头，即使在前几年发行还不多的时候，溢价也一直存在的，并没有随着股票解锁后显著缩小。因此供需也无法合理解释溢价的存在。
 
-![img](https://raw.githubusercontent.com/blockchaingarden/blockchain-garden/main/images/grap-market-trend.jpg)
+![image-20240821163136648](https://raw.githubusercontent.com/blockchaingarden/blockchain-garden/main/images/gray-market-trend.png)
 
 从历史看，灰度信托股价的溢价情况一直存在（绿色线为信托股价，黑色线为每股对应比特币价值）
 
