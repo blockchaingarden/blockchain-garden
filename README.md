@@ -18,6 +18,7 @@
 
 ## 神秘组织
 - [灰度基金](https://blockchaingarden.github.io/blockchain-garden/post/grayscale.html)
+- [copper – 基于Balancer LBP建立的公平发行拍卖平台](https://blockchaingarden.github.io/blockchain-garden/post/copper.html)
 
 
 ## 历史大事件
